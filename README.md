@@ -34,7 +34,7 @@ This project is a simple console-based Library Management System. It allows user
 - **Models**: Contains the classes `Library`, `Librarian`, `LibraryUser`, and `Book` which define the core functionality and data structures of the system.
 
 ## User Stories 
- -1- As a user I want to have a library card so that I can borrow books from the  library.
- -2- As a librarian I want to add a new book to the library's collection so that they can be available for borrowing.
- -3- As a librarian I want to remove books form the library's collection so that they can keep the collection up to date.
- -4- As a librarian I want to display a list of all books in the library collection so that users can easily find a book they are interested in.
+1. As a user I want to have a library card so that I can borrow books from the  library.
+2. As a librarian I want to add a new book to the library's collection so that they can be available for borrowing.
+3. As a librarian I want to remove books form the library's collection so that they can keep the collection up to date.
+4. As a librarian I want to display a list of all books in the library collection so that users can easily find a book they are interested in.
