@@ -1,0 +1,5 @@
+User Stories 
+1- As a user i want to have a library card so that i can borrow books from the  library
+2- As a librarian i to want add a new books to the library's collection so that they can be available for borrowing 
+3- As a librarian i want to remove books form library's collection so that they can keep the collection up to date 
+4- As a librarian i want to display a list of all books in library collection so that users can easily find a books they are interested in 
